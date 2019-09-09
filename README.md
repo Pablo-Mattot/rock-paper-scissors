@@ -1,0 +1,1 @@
+This is my third Odin Project assignment. This excercise will test my bacis Javascript knowledge.
